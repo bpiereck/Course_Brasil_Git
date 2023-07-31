@@ -32,6 +32,6 @@ O Git me obriga a escrever uma msg de todo jeito! Neste casso posso escrever uma
 
 git remote add <Nome> <ssh>
 
-git push
+git push: empurrar para dentro do github
 
-
+git pull: puxar do github para o meu r. local
