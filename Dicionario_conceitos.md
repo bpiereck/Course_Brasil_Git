@@ -14,4 +14,6 @@
 
 3. **Staging area:** é o purgatório onde eu jogo as coisas antes de salvar no meu repositório git.
 
+! + [descriçao da image] + (link imagem)
 
+![imagem](https://raw.githubusercontent.com/bpiereck/Course_Brasil_Git/master/finalDocs.gif)
