@@ -27,3 +27,11 @@ p.s: O que acontece se eu esquecer o "-m" no commit?
 O Git me obriga a escrever uma msg de todo jeito! Neste casso posso escrever uma msg longa.
 
 **git status**: verificar o status do repositório....
+
+
+
+git remote add <Nome> <ssh>
+
+git push
+
+
