@@ -19,3 +19,4 @@
 ![imagem](https://raw.githubusercontent.com/bpiereck/Course_Brasil_Git/master/finalDocs.gif)
 
 Boa tarde, quero criar o caos, vou criar um conflito!
+outro texto diferentão.
