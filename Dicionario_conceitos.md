@@ -29,10 +29,13 @@ Oi amigo, meu cerebro ta derretendo já.
 
 4 . Git Branch, a teoria do multiver: interessante para procurar soluçoes differentes para o mesmo problema, fazer teste sem alterar o que ja esta funcional.
 
-> > > > > > > 
-> > > > > > > =======
-
 Git checkout `ID` : CUIDADO!!!!!
 Modificar o passado pode trazer riscos a sua saúde mental! 
 
 Para nõ entrar em desespero lembre-se de criar um branch para não perder tudo que vc fez em um universo paralelo perdido no tempo espaço.
+
+
+
+
+
+Git tag é interessante para o controle de versóes e releases.
