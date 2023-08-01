@@ -39,3 +39,4 @@ O Git me obriga a escrever uma msg de todo jeito! Neste casso posso escrever uma
 **git checkout**: para entrar e sair das minhas multiplas linhas do tempo, e também para viajar de um `commit` para o outro.
 
 Flávia :)
+2
