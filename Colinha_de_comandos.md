@@ -28,10 +28,12 @@ O Git me obriga a escrever uma msg de todo jeito! Neste casso posso escrever uma
 
 **git status**: verificar o status do repositório....
 
+**git remote add <Nome> <ssh>**
 
+**git push:** empurrar para dentro do github
 
-git remote add <Nome> <ssh>
+**git pull:** puxar do github para o meu r. local
 
-git push: empurrar para dentro do github
+**git branch** : vai criar uma linha paralela de tempo (Meu primeiro mutiverso!)
 
-git pull: puxar do github para o meu r. local
+**git checkout**: para entrar e sair das minhas multiplas linhas do tempo, e também para viajar de um `commit` para o outro.
