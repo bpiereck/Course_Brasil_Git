@@ -20,5 +20,6 @@
 
 Boa tarde, quero criar o caos, vou criar um conflito!
 
-
 COMEÇAR DO ZERO! 
+
+Oi amigo, meu cerebro ta derretendo já. 
