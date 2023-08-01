@@ -37,3 +37,5 @@ O Git me obriga a escrever uma msg de todo jeito! Neste casso posso escrever uma
 **git branch** : vai criar uma linha paralela de tempo (Meu primeiro mutiverso!)
 
 **git checkout**: para entrar e sair das minhas multiplas linhas do tempo, e também para viajar de um `commit` para o outro.
+
+Matheus Azevedo Bomfim
