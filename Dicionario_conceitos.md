@@ -20,4 +20,5 @@
 
 Boa tarde, quero criar o caos, vou criar um conflito!
 
-Sou tão boa que esqueci de criar um conflito!
+
+COMEÇAR DO ZERO! 
