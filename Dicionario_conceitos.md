@@ -18,9 +18,13 @@
 
 ![imagem](https://raw.githubusercontent.com/bpiereck/Course_Brasil_Git/master/finalDocs.gif)
 
+<<<<<<< HEAD
 Boa tarde, quero criar o caos, vou criar um conflito!
 
 COMEÇAR DO ZERO! 
 
 
 Oi amigo, meu cerebro ta derretendo já. 
+=======
+4 . Git Branch, a teoria do multiver: interessante para procurar soluçoes differentes para o mesmo problema, fazer teste sem alterar o que ja esta funcional.
+>>>>>>> fantastic_beast
