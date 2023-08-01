@@ -19,12 +19,20 @@
 ![imagem](https://raw.githubusercontent.com/bpiereck/Course_Brasil_Git/master/finalDocs.gif)
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Boa tarde, quero criar o caos, vou criar um conflito!
 
 COMEÇAR DO ZERO! 
 
-
-Oi amigo, meu cerebro ta derretendo já. 
+Oi amigo, meu cerebro ta derretendo já.
 =======
+
 4 . Git Branch, a teoria do multiver: interessante para procurar soluçoes differentes para o mesmo problema, fazer teste sem alterar o que ja esta funcional.
->>>>>>> fantastic_beast
+
+> > > > > > > 
+> > > > > > > =======
+
+Git checkout `ID` : CUIDADO!!!!!
+Modificar o passado pode trazer riscos a sua saúde mental! 
+
+Para nõ entrar em desespero lembre-se de criar um branch para não perder tudo que vc fez em um universo paralelo perdido no tempo espaço.
