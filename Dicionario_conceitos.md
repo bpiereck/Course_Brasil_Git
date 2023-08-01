@@ -18,4 +18,9 @@
 
 ![imagem](https://raw.githubusercontent.com/bpiereck/Course_Brasil_Git/master/finalDocs.gif)
 
-4 . Git Branch, a teoria do multiver: interessante para procurar soluçoes differentes para o mesmo problema, fazer teste sem alterar o que ja esta funcional.
+
+
+Git checkout `ID` : CUIDADO!!!!!
+Modificar o passado pode trazer riscos a sua saúde mental! 
+
+Para nõ entrar em desespero lembre-se de criar um branch para não perder tudo que vc fez em um universo paralelo perdido no tempo espaço.
