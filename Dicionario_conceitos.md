@@ -22,3 +22,5 @@ Boa tarde, quero criar o caos, vou criar um conflito!
 
 
 COMEÇAR DO ZERO! 
+
+lascou tudo!
